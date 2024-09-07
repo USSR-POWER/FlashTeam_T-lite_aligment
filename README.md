@@ -16,7 +16,7 @@
 - **FastAPI** — для разработки и развертывания API.
 - **Kaggle** — платформа для выполнения вычислений и дообучения модели на мощностях GPU.
 
-## Ссылка на Kaggle блокнот
+## Ссылка на Kaggle блокнот с кодом дообучения модели
 
 [FlashTeam Alignment T-Lite на Kaggle](https://www.kaggle.com/code/ussrpower/flashteam-aligment-tlite)
 
