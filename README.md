@@ -48,7 +48,7 @@
 
 5. **Запуск Telegram-бота:**
     ```bash
-    python bot.py
+    python tg_bot.py
     ```
 
 ## Контактная информация
