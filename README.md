@@ -24,8 +24,8 @@
 
 1. **Клонирование репозитория:**
     ```bash
-    git clone <ссылка на репозиторий>
-    cd <имя директории>
+    git clone [<ссылка на репозиторий>](https://github.com/USSR-POWER/FlashTeam_T-lite_aligment)
+    cd FlashTeam_T-lite_aligment
     ```
 
 2. **Установка зависимостей:**
